@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Factory": {
-      "commandName": "Project",
-      "commandLineArgs": "--log"
-    }
-  }
-}
